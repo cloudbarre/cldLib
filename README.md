@@ -2,7 +2,7 @@
 The cldLib module is a library of functions for processing and plotting data stored in csv files.
 It uses the os module to move in between folders, the matplotlib.pyplot module to analyze and display data, and the pickle module to save the data in a more easily readable format.
 
-cldLib.py is the file containing the module.  file_crawler_multigraph and average_grapher are sample scripts.
+cldLib.py is the file containing the module.  file_crawler_multigraph.py and average_grapher.py are sample scripts.
 
 Methods:
 
